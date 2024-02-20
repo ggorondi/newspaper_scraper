@@ -1,2 +1,2 @@
 # newspaper_scraper
-scrapes online newspapers project for a friend
+Newspaper scraping project. Scrapes a handful of news outlets and organizes them into a Whatsapp message with Twilio
